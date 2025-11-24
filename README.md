@@ -78,7 +78,30 @@ Shows movement from Booking → Check-in → Boarding.
 
 # 💡 3. Key Insights
 
-🧰 Tools & Technologies
+✦ Passenger volume increases during peak travel months
+
+✧ Aircraft type impacts total flight time
+
+✺ Some routes show consistent delays
+
+❉ Seasonal changes affect overall passenger count
+
+---
+
+
+# 🧠 4. Recommendations
+
+✦ Increase flights during high-demand months
+
+✧ Optimize aircraft turnaround time
+
+✺ Add offers during low-passenger months
+
+❉ Improve performance on high-delay routes
+
+---
+
+# 🛠️ 6. Tools & Technologies Used
 
 ✦ Power BI Desktop
 
@@ -90,45 +113,14 @@ Shows movement from Booking → Check-in → Boarding.
 
 ---
 
-# 🧠 4. Recommendations
-
-Increase flight capacity in high-demand months
-
-Optimize aircraft scheduling for flights with longer durations
-
-Focus marketing efforts on the most profitable passenger category
-
-Reduce drop-off between funnel stages through improved communication or check-in process
-
-Monitor timings to reduce delay patterns
-
----
-
-# 🛠️ 6. Tools & Technologies Used
-
-Power BI Desktop
-
-Power Query (Data Cleaning)
-
-DAX (Measures & Calculations)
-
-Data Modeling
-
-Visualization Design
-
-UI/UX Dashboard Layout
-
----
-
 🚀 8. How to Use
 
-1.Download the .pbix file
+✦ Download the .pbix file
 
-2.Open using Power BI Desktop
+✧ Open it in Power BI Desktop
 
-3.Explore visuals, slicers & KPIs
+✺ Apply filters & explore visuals
 
-4.Analyse trends and insights
-
+❉ View complete dashboard insights
 
 
