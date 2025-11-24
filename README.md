@@ -123,4 +123,30 @@ Shows movement from Booking → Check-in → Boarding.
 
 ❉ View complete dashboard insights
 
+---
+
+# 📊 Visuals Included
+
+✦ Area Chart – Passengers by Month
+
+✧ Donut Chart – Category Distribution
+
+✺ KPI Cards – Time & Performance
+
+❉ Funnel Chart – Passenger Flow
+
+---
+
+📘 Conclusion
+
+✦ The dashboard gives a clear view of monthly flight activity
+
+✧ Helps understand patterns, delays, and seasonal trends
+
+✺ Supports strategic decision-making for airlines
+
+❉ Useful for planning, optimization & performance improvement
+
+---
+
 
