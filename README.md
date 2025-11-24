@@ -78,15 +78,15 @@ Shows movement from Booking → Check-in → Boarding.
 
 # 💡 3. Key Insights
 
-Some months show significantly higher passenger traffic
+🧰 Tools & Technologies
 
-Flight duration varies widely, indicating performance differences
+✦ Power BI Desktop
 
-A specific category dominates the passenger count
+✧ Excel / CSV Data
 
-Funnel stages reveal drop-offs in the passenger journey
+✺ DAX Calculations
 
-Visuals show clear patterns useful for planning and scheduling
+❉ Data Visualization Techniques
 
 ---
 
