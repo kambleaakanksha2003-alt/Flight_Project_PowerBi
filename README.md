@@ -5,10 +5,15 @@
 🎯 1. Objectives
 
 ➡️ Analyze monthly passenger patterns
+
 ➡️ Study flight duration (Avg / Min / Max)
+
 ➡️ Identify category-wise distribution
+
 ➡️ Track passenger flow using funnel stages
+
 ➡️ Provide KPI-driven quick insights
+
 ➡️ Create a polished dashboard suitable for analytics portfolio
 
 ---
