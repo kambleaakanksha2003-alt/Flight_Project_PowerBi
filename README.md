@@ -58,6 +58,12 @@ Shows movement from Booking → Check-in → Boarding.
 
 ---
 
+## 👩‍💻 Author  
+**Aakanksha Kamble**  
+Power BI | Data Analyst  
+
+---
+
 # 📊 Dashboard
 
 <img width="1120" height="627" alt="Flight_Dash_1" src="https://github.com/user-attachments/assets/c449d1ea-c932-46df-b9a1-ace4736dfc30" />
@@ -113,7 +119,7 @@ Shows movement from Booking → Check-in → Boarding.
 
 ---
 
-🚀 8. How to Use
+# 🚀 8. How to Use
 
 ✦ Download the .pbix file
 
@@ -137,7 +143,7 @@ Shows movement from Booking → Check-in → Boarding.
 
 ---
 
-📘 Conclusion
+# 📘 Conclusion
 
 ✦ The dashboard gives a clear view of monthly flight activity
 
@@ -148,5 +154,17 @@ Shows movement from Booking → Check-in → Boarding.
 ❉ Useful for planning, optimization & performance improvement
 
 ---
+
+## 🚀 Future Improvements
+- ✦ More flight routes
+-  
+- ✧ Additional KPIs
+- 
+- ✺ Weather impact analysis
+-  
+- ❉ Interactive drill-through pages
+
+---
+
 
 
