@@ -58,7 +58,24 @@ Shows movement from Booking → Check-in → Boarding.
 
 ---
 
-# Dashboard
+# 📊 Dashboard
 
 <img width="1120" height="627" alt="Flight_Dash_1" src="https://github.com/user-attachments/assets/c449d1ea-c932-46df-b9a1-ace4736dfc30" />
+
+---
+
+<img width="1112" height="630" alt="Flight_Dash_2" src="https://github.com/user-attachments/assets/d5985c1c-486d-4d69-a89f-cb6aad29d468" />
+
+---
+
+<img width="1105" height="632" alt="Flight_Dash_3 - Copy" src="https://github.com/user-attachments/assets/2b012557-11dc-48c0-b891-6fd41bffc648" />
+
+---
+
+<img width="1115" height="632" alt="Flight_Dash_4" src="https://github.com/user-attachments/assets/40025279-6af8-4ac3-8353-a76168fa25ce" />
+
+---
+
+
+
 
