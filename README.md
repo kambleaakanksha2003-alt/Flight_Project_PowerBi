@@ -57,3 +57,8 @@ Shows movement from Booking → Check-in → Boarding.
 🔹 Clean spacing & modern layout
 
 ---
+
+# Dashboard
+
+<img width="1120" height="627" alt="Flight_Dash_1" src="https://github.com/user-attachments/assets/c449d1ea-c932-46df-b9a1-ace4736dfc30" />
+
