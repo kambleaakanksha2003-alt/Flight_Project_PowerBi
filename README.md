@@ -20,7 +20,7 @@
 
 # 📊 2. Dashboard Components
 
-# 📈 Area Chart — Passengers by Month
+** 📈 Area Chart — Passengers by Month **
 
 Illustrates seasonal rise and dip in passenger count.
 
