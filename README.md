@@ -20,9 +20,11 @@
 
 # 📊 2. Dashboard Components
 
-** 📈 Area Chart — Passengers by Month **
+# 📈 Area Chart — Passengers by Month 
 
 Illustrates seasonal rise and dip in passenger count.
+
+---
 
 # ⏱️ KPI Cards — Time Performance
 
@@ -32,13 +34,19 @@ Illustrates seasonal rise and dip in passenger count.
 
 ✔️ Maximum Flight Time
 
+---
+
 # 🍩 Donut Chart — Passenger Breakdown
 
 Distribution of passengers across selected categories.
 
+---
+
 # 🔽 Funnel Chart — Passenger Journey
 
 Shows movement from Booking → Check-in → Boarding.
+
+---
 
 # 📘 Supporting Visuals
 
