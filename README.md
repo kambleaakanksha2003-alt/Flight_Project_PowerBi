@@ -76,6 +76,59 @@ Shows movement from Booking → Check-in → Boarding.
 
 ---
 
+# 💡 3. Key Insights
+
+Some months show significantly higher passenger traffic
+
+Flight duration varies widely, indicating performance differences
+
+A specific category dominates the passenger count
+
+Funnel stages reveal drop-offs in the passenger journey
+
+Visuals show clear patterns useful for planning and scheduling
+
+---
+
+# 🧠 4. Recommendations
+
+Increase flight capacity in high-demand months
+
+Optimize aircraft scheduling for flights with longer durations
+
+Focus marketing efforts on the most profitable passenger category
+
+Reduce drop-off between funnel stages through improved communication or check-in process
+
+Monitor timings to reduce delay patterns
+
+---
+
+# 🛠️ 6. Tools & Technologies Used
+
+Power BI Desktop
+
+Power Query (Data Cleaning)
+
+DAX (Measures & Calculations)
+
+Data Modeling
+
+Visualization Design
+
+UI/UX Dashboard Layout
+
+---
+
+🚀 8. How to Use
+
+1.Download the .pbix file
+
+2.Open using Power BI Desktop
+
+3.Explore visuals, slicers & KPIs
+
+4.Analyse trends and insights
 
 
 
