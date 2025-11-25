@@ -26,7 +26,7 @@ Illustrates seasonal rise and dip in passenger count.
 
 ---
 
-# ⏱️ KPI Cards — Time Performance
+## ⏱️ KPI Cards — Time Performance
 
 ✔️ Average Flight Time
 
@@ -36,19 +36,19 @@ Illustrates seasonal rise and dip in passenger count.
 
 ---
 
-# 🍩 Donut Chart — Passenger Breakdown
+## 🍩 Donut Chart — Passenger Breakdown
 
 Distribution of passengers across selected categories.
 
 ---
 
-# 🔽 Funnel Chart — Passenger Journey
+## 🔽 Funnel Chart — Passenger Journey
 
 Shows movement from Booking → Check-in → Boarding.
 
 ---
 
-# 📘 Supporting Visuals
+## 📘 Supporting Visuals
 
 🔹 Bar charts for comparison
 
